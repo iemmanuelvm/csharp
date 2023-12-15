@@ -1,0 +1,99 @@
+# Carpeta de salida de compilación
+bin/
+obj/
+
+# Carpeta de paquetes NuGet
+packages/
+
+# Archivos de configuración local
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de configuración de Visual Studio
+.vscode/
+*.vscode/
+*.suo
+*.ntvs*
+*.nupkg
+*.pfx
+*.snk
+*.user
+*.bak
+
+# Carpeta de cobertura de código
+coverage/
+
+# Carpeta de informes de pruebas
+TestResults/
+
+# Carpeta de registro
+*.log
+*.log.*
+*.md
+
+# Carpeta temporal
+[Tt]emp/
+[Tt]est[Rr]esults/
+
+# Archivo de configuración de Rider
+.idea/
+
+# Carpeta de respaldo y copia de seguridad de Visual Studio Code
+.vscode/
+
+# Carpeta de respaldo de Rider
+.idea/
+
+# Carpeta de archivos temporales
+*.~*
+
+# Archivos de usuario específicos
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de caché de ReSharper
+_ReSharper*/
+*.resharper*/
+
+
+# Rider
+.idea/
+*.sln.iml
+
+# Rider folder
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
